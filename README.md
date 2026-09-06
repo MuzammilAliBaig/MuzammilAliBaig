@@ -40,12 +40,7 @@ I'm an AI Platform Engineer focused on building reliable, scalable systems at th
 
 I enjoy turning ideas into production-ready systems — from AI/ML pipelines and APIs to cloud deployments, developer tooling, and automation.
 
-name: Muzammil Ali Baig
-username: MuzammilAliBaig
-role: AI Platform Engineer
-location: India
-
-focus:
+Focus:
   - Artificial Intelligence
   - Machine Learning
   - LLM & AI Platforms
@@ -53,17 +48,11 @@ focus:
   - Cloud Architecture
   - DevOps & Automation
 
-currently_learning:
+Currently_learning:
   - Advanced AI Systems
   - LLM Applications
   - Distributed Systems
   - Cloud-Native Architecture
-
-mindset:
-  - Build
-  - Automate
-  - Experiment
-  - Improve
 
 🚀 What I Work With
 

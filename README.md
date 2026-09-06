@@ -1,95 +1,233 @@
-<h1 align="center">Hi 👋, I'm Muzammil Ali Baig</h1>
-<h3 align="center">AI Platform Engineer from India | Building ML systems & bootstrapped tech for local businesses</h3>
+<!-- =========================
+     PROFILE HEADER
+========================= -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muzammilalibaig&label=Profile%20views&color=0e75b6&style=flat" alt="muzammilalibaig" />
-  <img src="https://img.shields.io/github/followers/muzammilalibaig?label=Follow&style=social" alt="followers" />
+<div align="center">
+
+👋 Hi, I'm Muzammil Ali Baig
+
+AI Platform Engineer • AI/ML • Backend • Cloud • Automation
+
+<p>
+  <a href="https://github.com/MuzammilAliBaig">
+    <img src="https://komarev.com/ghpvc/?username=MuzammilAliBaig&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/MuzammilAliBaig?tab=followers">
+    <img src="https://img.shields.io/github/followers/MuzammilAliBaig?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/MuzammilAliBaig?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MuzammilAliBaig?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=TOTAL%20STARS" alt="GitHub Stars" />
+  </a>
 </p>
 
-<p align="center">
-  I design and ship AI-driven systems — from graph-neural-network based hardware analysis to automation pipelines for small businesses. Currently exploring how AI can make local businesses in India more competitive.
+<p>
+  <a href="https://www.linkedin.com/in/muzammil-ali-baig/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/by.meuzz">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/muzammil-113/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </p>
 
-<h3 align="left">🔗 Connect with me:</h3>
+</div>
+
+🧠 About Me
+
+I'm an AI Platform Engineer focused on building reliable, scalable systems at the intersection of AI, backend engineering, cloud infrastructure, and automation.
+
+I enjoy turning ideas into production-ready systems — from AI/ML pipelines and APIs to cloud deployments, developer tooling, and automation.
+
+name: Muzammil Ali Baig
+username: MuzammilAliBaig
+role: AI Platform Engineer
+location: India
+
+focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - LLM & AI Platforms
+  - Backend Engineering
+  - Cloud Architecture
+  - DevOps & Automation
+
+currently_learning:
+  - Advanced AI Systems
+  - LLM Applications
+  - Distributed Systems
+  - Cloud-Native Architecture
+
+mindset:
+  - Build
+  - Automate
+  - Experiment
+  - Improve
+
+🚀 What I Work With
+
+🤖 AI / Machine Learning
+
 <p align="left">
-<a href="https://linkedin.com/in/muzammil-ali-baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzammil ali baig" height="30" width="40" /></a>
-<a href="https://instagram.com/by.meuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.meuzz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muzammil-113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muzammil-113" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" alt="AI and ML skills" />
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+☁️ Cloud / DevOps
+
 <p align="left">
-<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://zapier.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="Cloud and DevOps skills" />
 </p>
 
-<h3 align="left">📊 GitHub Analytics:</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muzammilalibaig&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="muzammilalibaig stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilalibaig&layout=compact&theme=tokyonight" alt="top languages" />
+🧩 Backend / Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,html" alt="Backend and web skills" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilalibaig&theme=tokyonight" alt="streak stats" />
+🗄️ Databases / Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database skills" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilalibaig&theme=tokyo-night&hide_border=true" alt="activity graph" />
+⚙️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c" alt="Programming languages" />
 </p>
 
-<h3 align="left">🏆 Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muzammilalibaig&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+📊 GitHub Analytics
 
-<h3 align="left">🚀 Featured Projects:</h3>
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<a href="https://github.com/MuzammilAliBaig">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuzammilAliBaig&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" alt="Muzammil's GitHub Stats" />
+</a>
 
-**[DrishtiPCB V3](https://github.com/muzammilalibaig)**
-PCB design review system built on PyTorch Geometric, using a Heterogeneous Graph Transformer to model netlists as typed graphs and flag hardware faults (e.g. missing I²C pull-up resistors) in circuits like STM32/TMP117 designs.
-`Python` `PyTorch Geometric` `Anthropic SDK`
+<a href="https://github.com/MuzammilAliBaig">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzammilAliBaig&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
+</a>
 
-</td>
-<td width="50%">
+</div>
 
-**Autonomous Customer Engagement Pipeline**
-End-to-end WhatsApp-native customer engagement system built for a café client, combining Supabase, Make.com, the WhatsApp Cloud API, Gemini 2.5 Flash, Glide, and Razorpay — shipped with a full build guide and architecture diagram.
-`Supabase` `Make.com` `WhatsApp Cloud API` `Gemini`
+🔥 Contribution Streak
 
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<div align="center">
 
-**Local Business Growth Tool** *(in progress)*
-Bootstrapped customer retention & acquisition tool for Indian local businesses (salons, restaurants, cafés) — designed WhatsApp-native, UPI-native, mobile-first, and vernacular-ready, targeting a sub-₹2,000/month price point.
-`WhatsApp` `UPI` `AI Integration`
+<a href="https://github.com/MuzammilAliBaig">
+  <img src="https://streak-stats.demolab.com?user=MuzammilAliBaig&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
+</a>
 
-</td>
-</tr>
-</table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammilalibaig&show_icons=true&locale=en&theme=tokyonight" alt="muzammilalibaig" />
-</p>
+📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/MuzammilAliBaig">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuzammilAliBaig&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</a>
+
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuzammilAliBaig/MuzammilAliBaig/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuzammilAliBaig/MuzammilAliBaig/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MuzammilAliBaig/MuzammilAliBaig/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MuzammilAliBaig&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+
+</div>
+
+⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MuzammilAliBaig/snake_game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuzammilAliBaig&repo=snake_game&hide_border=true&theme=transparent" alt="snake_game repository" />
+</a>
+
+</div>
+
+🐍 Snake Game
+
+A Python-based Snake Game featuring:
+
+Game logic and movement
+
+Random food generation
+
+Score tracking
+
+Scoreboard system
+
+🔗 View Repository →
+
+💡 More Projects
+
+Pin your strongest repositories on your GitHub profile. As your portfolio grows, feature your best projects here with a short description, tech stack, and live/demo link.
+
+<div align="center">
+
+<a href="https://github.com/MuzammilAliBaig?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+</a>
+
+</div>
+
+📚 Currently Exploring
+
+AI Engineering        ███████████████████░   90%
+LLM Systems            ██████████████████░░   85%
+Backend Engineering    █████████████████░░░   80%
+Cloud / AWS            ████████████████░░░░   75%
+DevOps / Automation    ███████████████░░░░░   70%
+System Design          ██████████████░░░░░░   65%
+
+📌 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/muzammil-113/">
+  <img src="https://img.shields.io/badge/LeetCode-muzammil--113-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+</a>
+
+</div>
+
+🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/MuzammilAliBaig">
+  <img src="https://img.shields.io/badge/GitHub-MuzammilAliBaig-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/muzammil-ali-baig/">
+  <img src="https://img.shields.io/badge/LinkedIn-Muzammil%20Ali%20Baig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://instagram.com/by.meuzz">
+  <img src="https://img.shields.io/badge/Instagram-@by.meuzz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
+
+<div align="center">
+
+💻 Build. Learn. Ship. Repeat.
+
+⭐ Thanks for visiting my profile!
+
+</div>

@@ -54,38 +54,6 @@ Currently_learning:
   - Distributed Systems
   - Cloud-Native Architecture
 
-🚀 What I Work With
-
-🤖 AI / Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" alt="AI and ML skills" />
-</p>
-
-☁️ Cloud / DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="Cloud and DevOps skills" />
-</p>
-
-🧩 Backend / Web
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,html" alt="Backend and web skills" />
-</p>
-
-🗄️ Databases / Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database skills" />
-</p>
-
-⚙️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c" alt="Programming languages" />
-</p>
-
 📊 GitHub Analytics
 
 <div align="center">

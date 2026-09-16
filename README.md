@@ -173,9 +173,7 @@ System Design          ██████████████░░░░░
   <img src="https://img.shields.io/badge/LinkedIn-Muzammil%20Ali%20Baig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://instagram.com/by.meuzz">
-  <img src="https://img.shields.io/badge/Instagram-@by.meuzz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+
 
 </div>
 
